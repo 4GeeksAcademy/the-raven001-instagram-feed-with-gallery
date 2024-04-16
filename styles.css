@@ -1,0 +1,9 @@
+.buttons {
+    display:flex;
+}
+
+.active {
+    background-color: none !important;
+    border: none !important;
+    color: #3d00f5 !important;
+}
